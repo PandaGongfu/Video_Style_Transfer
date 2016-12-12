@@ -7,7 +7,7 @@ Style transfer on static images has been widely researched. However, studies on 
 
 Please enjoy the following two videos that were created for this project:  
 [Flying bat in starry night style](https://www.youtube.com/watch?v=5QdC1OQ0xe4)   
-[Game of Throne transitions between muse and scream style](https://www.youtube.com/watch?v=y0ddOVEHUO4)  
+[Game of Throne style transitions between muse and scream](https://www.youtube.com/watch?v=y0ddOVEHUO4)  
 
 The workflow is as follows:  
 1. Scraped 20k images of paintings and pictures from Flickr to finetune the last convolutional layer of VGG16 so that it is able to distinguish paintings from pictures at 88%.   
