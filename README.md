@@ -5,7 +5,7 @@ Artistic style transfer for videos.
 This goal of this project is to use deep learning to perform style transfer on videos.  
 
 ## Intro  
-Style transfer on static images has been widely researched. However, studies on video style transfer are fairly new. In this project, I applied the method from [this paper](https://arxiv.org/pdf/1604.08610v2.pdf). Their implementation was in lua with torch as the backend. I modified the Keras neural transfer example to incorporate the image warping and temporal constraints. Please refer to [my blog](https://pandagongfu.github.io/) for details. And I'd like to thank [Manual Ruder](https://github.com/manuelruder/artistic-videos) and [Somshubra Majumdar](https://github.com/titu1994/Neural-Style-Transfer) for their wonderful github repos. 
+Style transfer on static images has been widely researched. However, studies on video style transfer are fairly new. In this project, I applied the method from [this paper](https://arxiv.org/pdf/1604.08610v2.pdf). Their implementation was in lua with torch as the backend. I modified the Keras neural transfer example to incorporate the image warping and temporal constraints. Please refer to [my blog](https://pandagongfu.github.io/) for details. And I'd like to thank [Manuel Ruder](https://github.com/manuelruder/artistic-videos) and [Somshubra Majumdar](https://github.com/titu1994/Neural-Style-Transfer) for their wonderful github repos. 
 
 ## Stylized Videos  
 Please enjoy the following two videos that I created for this project:  
@@ -18,4 +18,4 @@ The workflow is as follows:
 2. Generate optical flow and weights for temporal constraints using [deep matching](http://lear.inrialpes.fr/src/deepmatching/).   
 3. Perform style transfer on frames with initialization and temporal loss.  
 
-In this repo, jupyter notebooks for step 1 and 3 are included. Also included are the shell script and files that are used in step 2 (you may need additional files from [Manual Ruder](https://github.com/manuelruder/artistic-videos) to obtain optical flows.  
+In this repo, jupyter notebooks for step 1 and 3 are included. Also included are the shell script and files that are used in step 2 (you will need additional files from [Manuel Ruder's github](https://github.com/manuelruder/artistic-videos) to obtain optical flows).  
