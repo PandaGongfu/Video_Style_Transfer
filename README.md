@@ -2,10 +2,10 @@
 Artistic style transfer for videos.  
 
 ## Goal  
-This goal of this project is to use deep learning to perform style transfer on videos.  
+The goal of this project is to use deep learning to perform style transfer on videos. 
 
 ## Intro  
-Style transfer on static images has been widely researched. However, studies on video style transfer are fairly new. In this project, I applied the method from [this paper](https://arxiv.org/pdf/1604.08610v2.pdf). Their implementation was in lua with torch as the backend. I modified the Keras neural transfer example to incorporate the image warping and temporal constraints. Please refer to [my blog](https://pandagongfu.github.io/) for details. And I'd like to thank [Manuel Ruder](https://github.com/manuelruder/artistic-videos) and [Somshubra Majumdar](https://github.com/titu1994/Neural-Style-Transfer) for their wonderful github repos. 
+Style transfer is a way to apply the color scheme/texture of an artwork to other images or videos. Style transfer on static images has been widely researched. However, studies on video style transfer are fairly new. In this project, I applied the method from [this paper](https://arxiv.org/pdf/1604.08610v2.pdf). Their implementation was in lua with torch as the backend. I modified the Keras neural transfer example to incorporate the image warping and temporal constraints. Please refer to [my blog](https://pandagongfu.github.io/) for details. And I'd like to thank [Manuel Ruder](https://github.com/manuelruder/artistic-videos) and [Somshubra Majumdar](https://github.com/titu1994/Neural-Style-Transfer) for their wonderful github repos. 
 
 ## Stylized Videos  
 Please enjoy the following two videos that I created for this project:  
