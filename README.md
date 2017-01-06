@@ -9,10 +9,10 @@ Style transfer is a way to apply the color scheme/texture of an artwork to other
 
 ## Stylized Videos  
 Please enjoy the following two videos that I created for this project:  
-[Flying bat in starry night style](https://www.youtube.com/watch?v=5QdC1OQ0xe4)  
-![flying_bat](images/flying_bat.jpg)  
-[Game of Throne style transitions between muse and scream](https://www.youtube.com/watch?v=y0ddOVEHUO4)  
-![GOT](images/GameofThrone.jpg)
+### Flying Bat in Starry Night Style  
+[![flying_bat](images/flying_bat.jpg)](https://www.youtube.com/watch?v=5QdC1OQ0xe4)  
+### Game of Thrones: Gradual Transitions between Muse and Scream  
+[![GOT](https://www.youtube.com/watch?v=y0ddOVEHUO4)](images/GameofThrone.jpg)
 
 ## Approach  
 The workflow is as follows:  
