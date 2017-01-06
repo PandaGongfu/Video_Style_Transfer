@@ -12,7 +12,7 @@ Please enjoy the following two videos that I created for this project:
 ### Flying Bat in Starry Night Style  
 [![flying_bat](images/flying_bat.jpg)](https://www.youtube.com/watch?v=5QdC1OQ0xe4)  
 ### Game of Thrones: Gradual Transitions between Muse and Scream  
-[![GOT](https://www.youtube.com/watch?v=y0ddOVEHUO4)](images/GameofThrone.jpg)
+[![GOT](images/GameofThrone.jpg)](https://www.youtube.com/watch?v=y0ddOVEHUO4)
 
 ## Approach  
 The workflow is as follows:  
